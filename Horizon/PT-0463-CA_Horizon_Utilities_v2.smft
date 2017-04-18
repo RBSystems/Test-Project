@@ -1,0 +1,20 @@
+<Device Model="DMPS3-300-C" Name="DMPS3-300-C.">
+   <Network Type="Cresnet" Id="06">
+      <Device Model="CSM-QMT50-DCCN" DeviceId="03"/>
+      <Device Model="CSM-QMT50-DCCN" DeviceId="04"/>
+      <Device Model="CSM-QMT50-DCCN" DeviceId="05"/>
+      <Device Model="CSM-QMT50-DCCN" DeviceId="06"/>
+      <Device Model="CSM-QMT50-DCCN" DeviceId="07"/>
+      <Device Model="CSM-QMT50-DCCN" DeviceId="08"/>
+      <Device Model="CSM-QMT50-DCCN" DeviceId="09"/>
+      <Device Model="CSM-QMT50-DCCN" DeviceId="0A"/>
+      <Device Model="CSM-QMT50-DCCN" DeviceId="0B"/>
+      <Device Model="CSM-QMT50-DCCN" DeviceId="0C"/>
+      <Device Model="CSM-QMT50-DCCN" DeviceId="0D"/>
+      <Device Model="C2N-CBD-P" DeviceId="25"/>
+   </Network>
+   <Network Type="Ethernet" Id="07">
+      <Device Model="TSW-1050" DeviceId="03"/>
+      <Device Model="DM-RMC-SCALER-C" DeviceId="14"/>
+   </Network>
+</Device>
